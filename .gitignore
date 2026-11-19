@@ -1,0 +1,8 @@
+# Downloaded dataset and cache
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
